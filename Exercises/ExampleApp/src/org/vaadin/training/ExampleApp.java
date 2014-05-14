@@ -1,9 +1,8 @@
 package org.vaadin.training;
 
-import org.vaadin.training.views.auditing.AuditingView;
 import org.vaadin.training.views.auditing.AuditingViewImpl;
-import org.vaadin.training.views.dashboard.DashboardView;
-import org.vaadin.training.views.department.DepartmentView;
+import org.vaadin.training.views.dashboard.DashboardViewImpl;
+import org.vaadin.training.views.department.DepartmentViewImpl;
 
 import com.vaadin.navigator.Navigator;
 import com.vaadin.server.VaadinRequest;
@@ -57,8 +56,8 @@ public class ExampleApp extends UI implements ClickListener {
 
 	private void registerViews() {
 		navigator.addView("auditingView", AuditingViewImpl.class);
-		navigator.addView("dashboardView", DashboardView.class);
-		navigator.addView("departmentView", DepartmentView.class);
+		navigator.addView("dashboardView", DashboardViewImpl.class);
+		navigator.addView("departmentView", DepartmentViewImpl.class);
 	}
 
 	private Navigator createNavigator(Panel panel) {

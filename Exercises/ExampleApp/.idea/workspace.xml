@@ -2,105 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26b37fc2-22a4-41c6-8ce7-8cf763701572" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExampleApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ExampleApp_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\14\705b762d43db00131ec7c6d0f767339c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\22\b0ec8c3b43db00131ec7c6d0f767339c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\23\8055ba99ebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\2a\3028a199ebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\a2\b077b399ebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\c\c0b302eaebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\dc\10d2b01744db00131ec7c6d0f767339c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\e1\40d7b499ebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\ee\b0ef9f99ebd20013106b92445c395c7d" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.history\f9\a05b07df43db00131ec7c6d0f767339c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.indexes\af\history.index" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\2.tree" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.snap" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\8.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/Vaadin Training/.markers" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/Vaadin Training/.markers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2308022695.index" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/2308022695.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/history.index" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/history.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/6e/27/history.index" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/6e/27/history.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/6e/52/history.index" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/ExampleApp/.indexes/e4/e4/4d/da/6e/52/history.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
+      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\dashboard\DashboardView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java" />
+      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\department\DepartmentView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.log" afterPath="$PROJECT_DIR$/../../.metadata/.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2014-05-14.txt" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2014-05-14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Vaadin Training/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../Vaadin Training/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Vaadin Training/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Vaadin Training/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Optimization/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Optimization/.idea/workspace.xml" />
     </list>
     <ignored path="ExampleApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400059321751" ignored="false" />
-    <file path="/DepartmentView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400060180881" ignored="false" />
+    <file path="/DepartmentView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062198875" ignored="false" />
+    <file path="/DashboardView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400060815366" ignored="false" />
+    <file path="/DepartmentPresenter.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062236851" ignored="false" />
+    <file path="/DepartmentViewImpl.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062219251" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +85,7 @@
       <file leaf-file-name="ExampleApp.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="50" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
+            <state line="27" column="50" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,10 +93,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DepartmentView.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DashboardViewImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="30" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="30" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="38" selection-start="3119" selection-end="3119" vertical-scroll-proportion="0.41125542">
+            <state line="14" column="51" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentPresenter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="56" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/data/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="15" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentViewImpl.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="5" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.5497835">
               <folding />
             </state>
           </provider>
@@ -200,7 +170,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" />
+        <option value="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" />
+        <option value="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" />
+        <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
+        <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
       </list>
     </option>
   </component>
@@ -321,6 +295,36 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auditing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -409,6 +413,7 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -738,16 +743,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="50" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
+        <state line="27" column="50" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/data/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="15" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="38" selection-start="3119" selection-end="3119" vertical-scroll-proportion="0.41125542">
+        <state line="14" column="51" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="56" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="5" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.5497835">
           <folding />
         </state>
       </provider>
