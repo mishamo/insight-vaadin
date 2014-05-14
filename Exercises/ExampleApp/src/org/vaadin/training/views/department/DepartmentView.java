@@ -101,7 +101,8 @@ public class DepartmentView extends VerticalSplitPanel implements
 	public void enter(ViewChangeEvent event) {
 		updateDepartmentHeader();
 		updateEmployeeTable();
-		
+
+        //TODO make this less terrible
 		List<Person> people = personContainer.getItemIds();
 		String params = event.getParameters();
 		if(!params.isEmpty()) {

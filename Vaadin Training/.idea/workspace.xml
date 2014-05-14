@@ -2,11 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e7341c3-dfd5-4481-a1e9-30cb0a1816ba" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\1-exampleapp-navigator\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2-exampleapp-presenter\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\3-exampleapp-push\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\4-exampleapp-model\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerComponent\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\CalendarPickerField\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ClientSideStepper\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExampleApp\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\NumericTextField\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Optimization\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\RemoteSystemsTempFiles\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ServerSideStepper\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Servers\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Solutions-Optimization\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Vaadin Training\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.syncinfo.snap" afterPath="C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demos-exampleapp-cdi\.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Vaadin Training.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7e7341c3-dfd5-4481-a1e9-30cb0a1816ba" time="1400055377583" ignored="false" />
+    <file path="/Dummy.txt" changelist="7e7341c3-dfd5-4481-a1e9-30cb0a1816ba" time="1400058738090" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +106,7 @@
       <file leaf-file-name="Vaadin_trainingUI.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/vaadin_training/Vaadin_trainingUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="12" selection-start="873" selection-end="873" vertical-scroll-proportion="0.4336662">
+            <state line="16" column="37" selection-start="509" selection-end="509" vertical-scroll-proportion="0.13694721">
               <folding />
             </state>
           </provider>
@@ -123,6 +159,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,13 +199,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="MemberChooser.sorted" value="false" />
@@ -178,12 +214,13 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="Downloaded.Files.Path" value="C:\Users\Misha\workspace\Vaadin Training\lib" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Downloaded.Files.Path" value="C:\Users\Misha\workspace\Vaadin Training\lib" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -198,6 +235,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -226,19 +276,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -313,30 +350,31 @@
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -402,7 +440,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/example/vaadin_training/Vaadin_trainingUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="873" selection-end="873" vertical-scroll-proportion="0.4336662">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/vaadin_training/Vaadin_trainingUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="509" selection-end="509" vertical-scroll-proportion="0.13694721">
           <folding />
         </state>
       </provider>
@@ -483,7 +528,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>vaadin-all-7.2.0</last-edited>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

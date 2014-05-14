@@ -131,3 +131,16 @@
 0:0:0:0:0:0:0:1 - - [14/May/2014:10:05:24 +0100] "POST /ExampleApp/UIDL/?v-uiId=0 HTTP/1.1" 200 1416
 0:0:0:0:0:0:0:1 - - [14/May/2014:10:05:32 +0100] "POST /ExampleApp/UIDL/?v-uiId=0 HTTP/1.1" 200 3448
 0:0:0:0:0:0:0:1 - - [14/May/2014:10:05:33 +0100] "POST /ExampleApp/UIDL/?v-uiId=0 HTTP/1.1" 200 1416
+127.0.0.1 - - [14/May/2014:10:15:53 +0100] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [14/May/2014:10:15:53 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:16:09 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:42 +0100] "GET /Optimization HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:42 +0100] "GET /Optimization/ HTTP/1.1" 200 2070
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:46 +0100] "GET /Optimization/VAADIN/vaadinBootstrap.js HTTP/1.1" 200 8840
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:47 +0100] "GET /Optimization/VAADIN/widgetsets/com.vaadin.DefaultWidgetSet/com.vaadin.DefaultWidgetSet.nocache.js?1400059186726 HTTP/1.1" 200 7229
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:47 +0100] "GET /Optimization/VAADIN/widgetsets/com.vaadin.DefaultWidgetSet/7ED78A8535E7316AA173890C2ABFBE53.cache.js HTTP/1.1" 200 1103499
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:47 +0100] "GET /Optimization/VAADIN/themes/reindeer/styles.css HTTP/1.1" 200 178205
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:47 +0100] "POST /Optimization/?v-browserDetails=1&theme=reindeer&v-sh=900&v-sw=1600&v-cw=1600&v-ch=785&v-curdate=1400059186729&v-tzo=-60&v-dstd=60&v-rtzo=0&v-dston=true&v-vw=1600&v-vh=0&v-loc=http%3A%2F%2Flocalhost%3A8080%2FOptimization%2F&v-wn=Optimization-935074419-0.9056257670745254&v-1400059186733 HTTP/1.1" 200 145485
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:49 +0100] "GET /Optimization/VAADIN/themes/base/common/img/loading-indicator.gif HTTP/1.1" 200 1590
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:50 +0100] "GET /Optimization/VAADIN/themes/reindeer/favicon.ico HTTP/1.1" 200 6518
+0:0:0:0:0:0:0:1 - - [14/May/2014:10:19:52 +0100] "GET /Optimization/VAADIN/themes/base/common/img/loading-indicator-delay.gif HTTP/1.1" 200 1590

@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=Vaadin Training/C:\/Users\/Misha\/.ivy2\/cache\/com.vaadin\/vaadin-server\/jars\/vaadin-server-7.1.15.jar&lt;com.vaadin.ui(ComponentContainer.class[ComponentContainer" modifiers="1537" timestamp="1399020358000"/>
+<typeInfo handle="=Vaadin Training/C:\/Users\/Misha\/.ivy2\/cache\/com.vaadin\/vaadin-server\/jars\/vaadin-server-7.1.15.jar&lt;com.vaadin.navigator(ViewDisplay.class[ViewDisplay" modifiers="1537" timestamp="1399020358000"/>
+</typeInfoHistroy>

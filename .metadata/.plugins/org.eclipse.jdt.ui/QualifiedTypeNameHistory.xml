@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.vaadin.navigator.Navigator"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.ComponentContainer"/>
+<fullyQualifiedTypeName name="org.vaadin.training.views.auditing.AuditingView"/>
+<fullyQualifiedTypeName name="org.vaadin.training.views.dashboard.DashboardView"/>
+<fullyQualifiedTypeName name="org.vaadin.training.views.department.DepartmentView"/>
+<fullyQualifiedTypeName name="com.vaadin.navigator.View"/>
+<fullyQualifiedTypeName name="org.vaadin.training.views.auditing.AuditingViewImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
