@@ -87,6 +87,7 @@
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.slf4j/vaadin-slf4j-jdk14/jars/vaadin-slf4j-jdk14-1.6.1.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.atmosphere/atmosphere-compat-tomcat/bundles/atmosphere-compat-tomcat-1.0.18.vaadin3.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.atmosphere/atmosphere-compat-tomcat7/bundles/atmosphere-compat-tomcat7-1.0.18.vaadin3.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.projectlombok/lombok/jars/lombok-1.12.6.jar!/" />
         </CLASSES>
         <JAVADOC>
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin-server/javadocs/vaadin-server-7.1.15-javadoc.jar!/" />
@@ -137,6 +138,7 @@
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin-client-compiler-deps/javadocs/vaadin-client-compiler-deps-1.0.2-javadoc.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.atmosphere/atmosphere-runtime/javadocs/atmosphere-runtime-1.0.18.vaadin3-javadoc.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.slf4j/vaadin-slf4j-jdk14/javadocs/vaadin-slf4j-jdk14-1.6.1-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.projectlombok/lombok/javadocs/lombok-1.12.6-javadoc.jar!/" />
         </JAVADOC>
         <SOURCES>
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin-server/sources/vaadin-server-7.1.15-sources.jar!/" />
@@ -195,6 +197,7 @@
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin-client-compiler-deps/sources/vaadin-client-compiler-deps-1.0.2-sources.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.atmosphere/atmosphere-runtime/sources/atmosphere-runtime-1.0.18.vaadin3-sources.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin.external.slf4j/vaadin-slf4j-jdk14/sources/vaadin-slf4j-jdk14-1.6.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.projectlombok/lombok/sources/lombok-1.12.6-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>

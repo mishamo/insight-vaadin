@@ -36,6 +36,8 @@
 			rev="8.1.9.v20130131" />
 		<dependency org="javax.servlet" name="jstl" rev="1.2" />
         <dependency org="com.vaadin" name="vaadin-push" rev="&vaadin.version;" conf="default->default" />
+        <dependency org="org.projectlombok" name="lombok" rev="1.12.6"/>
+
     </dependencies>
 </ivy-module>
     

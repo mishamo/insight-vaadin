@@ -10,12 +10,12 @@ import com.vaadin.ui.Table;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.VerticalSplitPanel;
 import org.vaadin.training.authentication.Department;
-import org.vaadin.training.data.Person;
+import org.vaadin.training.data.EmployeeProxy;
 import org.vaadin.training.utils.UIAccessWrapper;
 
-import java.util.ArrayList;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 import java.util.Collection;
-import java.util.List;
 
 public class DepartmentViewImpl extends VerticalSplitPanel implements
 		ValueChangeListener, EmployeeEditorHandler, View, DepartmentView {
@@ -25,11 +25,12 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 
 	private EmployeeEditor employeeEditor = new EmployeeEditor(this);
 	private DepartmentInfo departmentInfo;
-	private BeanItemContainer<Person> personContainer;
+	private BeanItemContainer<EmployeeProxy> personContainer;
     private final DepartmentPresenter presenter;
 
 	public DepartmentViewImpl() {
         presenter = new DepartmentPresenter(this);
+        setupDataListener();
 		setSizeFull();
 
 		VerticalLayout departmentInfoAndEmployeeTableLayout = new VerticalLayout();
@@ -47,7 +48,7 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 	}
 
 	private void createEmployeeTable() {
-		createContainer(new ArrayList<Person>());
+		createContainer();
 		table = new Table();
 		table.setContainerDataSource(personContainer);
 		table.setSizeFull();
@@ -57,9 +58,8 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 		table.addValueChangeListener(this);
 	}
 
-	private void createContainer(Collection<Person> employees) {
-		personContainer = new BeanItemContainer<Person>(Person.class);
-		personContainer.addAll(employees);
+	private void createContainer() {
+		personContainer = new BeanItemContainer<EmployeeProxy>(EmployeeProxy.class);
 	}
 
 	/*
@@ -67,7 +67,7 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 	 */
 	@Override
 	public void valueChange(ValueChangeEvent event) {
-        presenter.personSelected((Person)table.getValue());
+        presenter.personSelected((EmployeeProxy)table.getValue());
 	}
 
 	@Override
@@ -85,24 +85,40 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
         presenter.update(event.getParameters());
 	}
 
-    @Override
-    public void setEmployees(final List<Person> employees) {
-        UIAccessWrapper.callOnUI(new Runnable() {
+    private void setupDataListener() {
+        presenter.addPropertyChangeListener(new PropertyChangeListener() {
             @Override
-            public void run() {
-                personContainer.removeAllItems();
-                personContainer.addAll(employees);
+            public void propertyChange(final PropertyChangeEvent event) {
+                UIAccessWrapper.callOnUI(new Runnable() {
+                    @Override
+                    public void run() {
+                        onUpdateEvent(event);
+                    }
+                }, getUI(), DepartmentViewImpl.this);
+
             }
-        }, getUI(), this);
+        });
+    }
+
+    private void onUpdateEvent(PropertyChangeEvent event) {
+        String propertyName = event.getPropertyName();
+        if (propertyName.equals("employees")) {
+            personContainer.removeAllItems();
+            personContainer.addAll((Collection<EmployeeProxy>) event.getNewValue());
+        } else if (propertyName.equals("department")) {
+            departmentInfo.setDepartment((Department) event.getNewValue());
+        } else if (propertyName.equals("loadingState")) {
+            departmentInfo.setLoadingState((Float) event.getNewValue());
+        }
     }
 
     @Override
-    public void showEmployeeInForm(Person employee) {
+    public void showEmployeeInForm(EmployeeProxy employee) {
         employeeEditor.setPerson(personContainer.getItem(employee));
     }
 
     @Override
-    public Person commitChanges() {
+    public EmployeeProxy commitChanges() {
         return employeeEditor.commit();
     }
 
@@ -112,13 +128,8 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
     }
 
     @Override
-    public void selectEmployee(Person employee) {
+    public void selectEmployee(EmployeeProxy employee) {
         table.setValue(employee);
-    }
-
-    @Override
-    public void setDepartment(Department department) {
-        departmentInfo.setDepartment(department);
     }
 
     @Override
@@ -129,15 +140,5 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
     @Override
     public void setParameters(String parameters) {
         Page.getCurrent().setUriFragment("!departmentView/" + parameters, false);
-    }
-
-    @Override
-    public void setDataLoadingState(final float state) {
-        UIAccessWrapper.callOnUI(new Runnable() {
-            @Override
-            public void run() {
-                departmentInfo.setLoadingState(state);
-            }
-        }, getUI(), this);
     }
 }

@@ -1,7 +1,5 @@
 package org.vaadin.training.views.department;
 
-import org.vaadin.training.data.Person;
-
 import com.vaadin.data.fieldgroup.BeanFieldGroup;
 import com.vaadin.data.fieldgroup.FieldGroup.CommitException;
 import com.vaadin.data.fieldgroup.PropertyId;
@@ -12,6 +10,7 @@ import com.vaadin.ui.Button.ClickListener;
 import com.vaadin.ui.FormLayout;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.TextField;
+import org.vaadin.training.data.EmployeeProxy;
 
 public class EmployeeEditor extends FormLayout implements ClickListener {
 
@@ -33,11 +32,11 @@ public class EmployeeEditor extends FormLayout implements ClickListener {
 	private TextField salary;
 
 	private EmployeeEditorHandler editorHandler;
-	private BeanFieldGroup<Person> binder;
+	private BeanFieldGroup<EmployeeProxy> binder;
 
 	public EmployeeEditor(EmployeeEditorHandler editorHandler) {
 		this.editorHandler = editorHandler;
-		binder = new BeanFieldGroup<Person>(Person.class);
+		binder = new BeanFieldGroup<EmployeeProxy>(EmployeeProxy.class);
 
 		setEnabled(false);
 		setMargin(true);
@@ -74,7 +73,7 @@ public class EmployeeEditor extends FormLayout implements ClickListener {
 		}
 	}
 
-	public Person commit() {
+	public EmployeeProxy commit() {
 		try {
 			binder.commit();
 			return binder.getItemDataSource().getBean();
@@ -87,7 +86,7 @@ public class EmployeeEditor extends FormLayout implements ClickListener {
 		binder.discard();
 	}
 
-	public void setPerson(BeanItem<Person> person) {
+	public void setPerson(BeanItem<EmployeeProxy> person) {
 		binder.setItemDataSource(person);
 		binder.bindMemberFields(this);
 	}

@@ -9,7 +9,7 @@ import org.vaadin.training.utils.UIAccessWrapper;
 
 public class AuditingViewImpl extends VerticalLayout implements AuditingView, View {
 
-	private AuditingPresenter presenter;
+	private final AuditingPresenter presenter;
 
 	public AuditingViewImpl() {
 		Label header = new Label("Audit Log Messages");
