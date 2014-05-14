@@ -3,9 +3,9 @@ package org.vaadin.training.views.auditing;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.ui.Label;
-import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.themes.Reindeer;
+import org.vaadin.training.utils.UIAccessWrapper;
 
 public class AuditingViewImpl extends VerticalLayout implements AuditingView, View {
 
@@ -23,18 +23,12 @@ public class AuditingViewImpl extends VerticalLayout implements AuditingView, Vi
 
 	@Override
 	public void addAuditLog(final String message) {
-        UI ui = getUI();
-        if (!isAttached() || ui.getSession().hasLock()) {
-            addComponent(new Label(message));
-        }
-        else {
-            ui.access(new Runnable() {
-                @Override
-                public void run() {
-                    addComponent(new Label(message));
-                }
-            });
-        }
+        UIAccessWrapper.callOnUI(new Runnable() {
+            @Override
+            public void run() {
+                addComponent(new Label(message));
+            }
+        }, getUI(), this);
 	}
 
 	@Override

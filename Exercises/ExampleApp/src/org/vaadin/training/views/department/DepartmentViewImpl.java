@@ -7,11 +7,11 @@ import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.server.Page;
 import com.vaadin.ui.Table;
-import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.VerticalSplitPanel;
 import org.vaadin.training.authentication.Department;
 import org.vaadin.training.data.Person;
+import org.vaadin.training.utils.UIAccessWrapper;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -87,20 +87,13 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 
     @Override
     public void setEmployees(final List<Person> employees) {
-        UI ui = getUI();
-        if (!isAttached() || ui.getSession().hasLock()) {
-            personContainer.removeAllItems();
-            personContainer.addAll(employees);
-        }
-        else {
-            ui.access(new Runnable() {
-                @Override
-                public void run() {
-                    personContainer.removeAllItems();
-                    personContainer.addAll(employees);
-                }
-            });
-        }
+        UIAccessWrapper.callOnUI(new Runnable() {
+            @Override
+            public void run() {
+                personContainer.removeAllItems();
+                personContainer.addAll(employees);
+            }
+        }, getUI(), this);
     }
 
     @Override
@@ -140,16 +133,11 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 
     @Override
     public void setDataLoadingState(final float state) {
-        UI ui = getUI();
-        if (!isAttached() || ui.getSession().hasLock()) {
-            departmentInfo.setLoadingState(state);
-        } else {
-            ui.access(new Runnable() {
-                @Override
-                public void run() {
-                    departmentInfo.setLoadingState(state);
-                }
-            });
-        }
+        UIAccessWrapper.callOnUI(new Runnable() {
+            @Override
+            public void run() {
+                departmentInfo.setLoadingState(state);
+            }
+        }, getUI(), this);
     }
 }
