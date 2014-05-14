@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26b37fc2-22a4-41c6-8ce7-8cf763701572" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
-      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\dashboard\DashboardView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java" />
-      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\department\DepartmentView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Optimization/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Optimization/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" afterPath="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
     </list>
     <ignored path="ExampleApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400059321751" ignored="false" />
-    <file path="/DepartmentView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062198875" ignored="false" />
+    <file path="/DepartmentView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400063302263" ignored="false" />
     <file path="/DashboardView.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400060815366" ignored="false" />
-    <file path="/DepartmentPresenter.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062236851" ignored="false" />
-    <file path="/DepartmentViewImpl.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400062219251" ignored="false" />
+    <file path="/DepartmentPresenter.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400063944984" ignored="false" />
+    <file path="/DepartmentViewImpl.java" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400064094521" ignored="false" />
+    <file path="/web.xml" changelist="26b37fc2-22a4-41c6-8ce7-8cf763701572" time="1400063012223" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +75,7 @@
       <file leaf-file-name="ExampleApp.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="50" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+            <state line="20" column="29" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,7 +104,7 @@
       <file leaf-file-name="DepartmentView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="51" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,10 +115,37 @@
       <file leaf-file-name="DepartmentPresenter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="56" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0">
+            <state line="35" column="24" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ivy.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ivy.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="56" selection-start="1530" selection-end="1530" vertical-scroll-proportion="-11.217391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="26" selection-start="752" selection-end="752" vertical-scroll-proportion="-3.5208333">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,7 +162,7 @@
       <file leaf-file-name="DepartmentViewImpl.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="5" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.5497835">
+            <state line="124" column="51" selection-start="3624" selection-end="3624" vertical-scroll-proportion="0.67346936">
               <folding />
             </state>
           </provider>
@@ -172,6 +189,8 @@
         <option value="$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java" />
+        <option value="$PROJECT_DIR$/ivy.xml" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
         <option value="$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
@@ -227,6 +246,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -668,12 +719,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.6712517" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.6712517" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -741,25 +792,48 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/ExampleApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="50" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+        <state line="20" column="29" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java">
+    <entry file="file://$PROJECT_DIR$/ivy.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="37" column="56" selection-start="1530" selection-end="1530" vertical-scroll-proportion="-11.217391">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardView.java">
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+        <state line="19" column="26" selection-start="752" selection-end="752" vertical-scroll-proportion="-3.5208333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -773,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="51" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -782,16 +856,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="56" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0">
+        <state line="35" column="24" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin-server/sources/vaadin-server-7.1.15-sources.jar!/com/vaadin/server/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="613" column="5" selection-start="19451" selection-end="19451" vertical-scroll-proportion="5.086168">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/vaadin/training/views/department/DepartmentViewImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="5" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.5497835">
+        <state line="124" column="51" selection-start="3624" selection-end="3624" vertical-scroll-proportion="0.67346936">
           <folding />
         </state>
       </provider>

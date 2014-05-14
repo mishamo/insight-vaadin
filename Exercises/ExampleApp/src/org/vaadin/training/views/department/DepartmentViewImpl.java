@@ -5,6 +5,7 @@ import com.vaadin.data.Property.ValueChangeListener;
 import com.vaadin.data.util.BeanItemContainer;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
+import com.vaadin.server.Page;
 import com.vaadin.ui.Table;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.VerticalSplitPanel;
@@ -117,5 +118,10 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
     @Override
     public void enableEmployeeForm(boolean enable) {
         employeeEditor.setEnabled(enable);
+    }
+
+    @Override
+    public void setParameters(String parameters) {
+        Page.getCurrent().setUriFragment("!departmentView/" + parameters, false);
     }
 }

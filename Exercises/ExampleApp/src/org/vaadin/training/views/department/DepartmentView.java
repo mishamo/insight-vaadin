@@ -13,4 +13,5 @@ public interface DepartmentView {
     public void selectEmployee(Person employee);
     public void setDepartment(Department department);
     public void enableEmployeeForm(boolean enable);
+    void setParameters(String parameters);
 }

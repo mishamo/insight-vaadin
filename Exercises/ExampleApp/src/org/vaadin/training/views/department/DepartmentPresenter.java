@@ -26,6 +26,7 @@ public class DepartmentPresenter {
             for (Person employee : employees) {
                 if(employee.getId() == id) {
                     departmentView.selectEmployee(employee);
+                    break;
                 }
             }
 
@@ -33,8 +34,10 @@ public class DepartmentPresenter {
     }
 
     public void personSelected(Person person) {
-    	if(person != null)
+    	if(person != null) {
     		departmentView.showEmployeeInForm(person);
+            departmentView.setParameters(String.valueOf(person.getId()));
+        }
         departmentView.enableEmployeeForm(person != null);
     }
 

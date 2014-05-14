@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e70bf7ef-acec-4c0c-9728-13818190452b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
-      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\dashboard\DashboardView.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/dashboard/DashboardViewImpl.java" />
-      <change type="MOVED" beforePath="C:\Users\Misha\workspace\Exercises\ExampleApp\src\org\vaadin\training\views\department\DepartmentView.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/dashboard/DashboardView.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/dashboard/DashboardView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentView.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/ExampleApp.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/ExampleApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ExampleApp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentViewImpl.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
     </list>
     <ignored path="Optimization.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400059321751" ignored="false" />
-    <file path="/DepartmentView.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400062198875" ignored="false" />
+    <file path="/DepartmentView.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063302263" ignored="false" />
     <file path="/DashboardView.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400060815366" ignored="false" />
-    <file path="/DepartmentPresenter.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400062237151" ignored="false" />
-    <file path="/DepartmentViewImpl.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400062219251" ignored="false" />
+    <file path="/DepartmentPresenter.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063944984" ignored="false" />
+    <file path="/DepartmentViewImpl.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400064094727" ignored="false" />
+    <file path="/web.xml" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063012222" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

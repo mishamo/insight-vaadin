@@ -1,7 +1,0 @@
-package org.vaadin.training.views.auditing;
-
-public interface AuditingView extends View {
-
-	public void addAuditLog(String message);
-
-}

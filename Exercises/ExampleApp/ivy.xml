@@ -35,6 +35,7 @@
 		<dependency org="org.eclipse.jetty.aggregate" name="jetty-all-server"
 			rev="8.1.9.v20130131" />
 		<dependency org="javax.servlet" name="jstl" rev="1.2" />
-	</dependencies>
+        <dependency org="com.vaadin" name="vaadin-push" rev="&vaadin.version;" conf="default->default" />
+    </dependencies>
 </ivy-module>
     
