@@ -7,6 +7,7 @@ import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.server.Page;
 import com.vaadin.ui.Table;
+import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.VerticalSplitPanel;
 import org.vaadin.training.authentication.Department;
@@ -85,9 +86,21 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
 	}
 
     @Override
-    public void setEmployees(List<Person> employees) {
-        personContainer.removeAllItems();
-        personContainer.addAll(employees);
+    public void setEmployees(final List<Person> employees) {
+        UI ui = getUI();
+        if (!isAttached() || ui.getSession().hasLock()) {
+            personContainer.removeAllItems();
+            personContainer.addAll(employees);
+        }
+        else {
+            ui.access(new Runnable() {
+                @Override
+                public void run() {
+                    personContainer.removeAllItems();
+                    personContainer.addAll(employees);
+                }
+            });
+        }
     }
 
     @Override
@@ -123,5 +136,20 @@ public class DepartmentViewImpl extends VerticalSplitPanel implements
     @Override
     public void setParameters(String parameters) {
         Page.getCurrent().setUriFragment("!departmentView/" + parameters, false);
+    }
+
+    @Override
+    public void setDataLoadingState(final float state) {
+        UI ui = getUI();
+        if (!isAttached() || ui.getSession().hasLock()) {
+            departmentInfo.setLoadingState(state);
+        } else {
+            ui.access(new Runnable() {
+                @Override
+                public void run() {
+                    departmentInfo.setLoadingState(state);
+                }
+            });
+        }
     }
 }

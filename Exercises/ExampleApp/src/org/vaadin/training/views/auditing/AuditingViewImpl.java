@@ -3,6 +3,7 @@ package org.vaadin.training.views.auditing;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.ui.Label;
+import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.themes.Reindeer;
 
@@ -22,7 +23,18 @@ public class AuditingViewImpl extends VerticalLayout implements AuditingView, Vi
 
 	@Override
 	public void addAuditLog(final String message) {
-		addComponent(new Label(message));
+        UI ui = getUI();
+        if (!isAttached() || ui.getSession().hasLock()) {
+            addComponent(new Label(message));
+        }
+        else {
+            ui.access(new Runnable() {
+                @Override
+                public void run() {
+                    addComponent(new Label(message));
+                }
+            });
+        }
 	}
 
 	@Override

@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e70bf7ef-acec-4c0c-9728-13818190452b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/auditing/AuditingPresenter.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/auditing/AuditingPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/auditing/AuditingViewImpl.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/auditing/AuditingViewImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentPresenter.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentView.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentViewImpl.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/views/department/DepartmentViewImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/ExampleApp.java" afterPath="$PROJECT_DIR$/../ExampleApp/src/org/vaadin/training/ExampleApp.java" />
     </list>
     <ignored path="Optimization.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400059321751" ignored="false" />
     <file path="/DepartmentView.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063302263" ignored="false" />
     <file path="/DashboardView.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400060815366" ignored="false" />
-    <file path="/DepartmentPresenter.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063944984" ignored="false" />
-    <file path="/DepartmentViewImpl.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400064094727" ignored="false" />
+    <file path="/DepartmentPresenter.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400071830185" ignored="false" />
+    <file path="/DepartmentViewImpl.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400071260096" ignored="false" />
     <file path="/web.xml" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400063012222" ignored="false" />
+    <file path="/ExampleApp.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400064498106" ignored="false" />
+    <file path="/AuditingPresenter.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400070480346" ignored="false" />
+    <file path="/AuditingViewImpl.java" changelist="e70bf7ef-acec-4c0c-9728-13818190452b" time="1400070214298" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -14,4 +14,5 @@ public interface DepartmentView {
     public void setDepartment(Department department);
     public void enableEmployeeForm(boolean enable);
     void setParameters(String parameters);
+    public void setDataLoadingState(float percentageProgress);
 }

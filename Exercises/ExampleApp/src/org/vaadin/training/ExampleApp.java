@@ -1,5 +1,6 @@
 package org.vaadin.training;
 
+import com.vaadin.annotations.Push;
 import org.vaadin.training.views.auditing.AuditingViewImpl;
 import org.vaadin.training.views.dashboard.DashboardViewImpl;
 import org.vaadin.training.views.department.DepartmentViewImpl;
@@ -15,6 +16,7 @@ import com.vaadin.ui.Panel;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
+@Push
 public class ExampleApp extends UI implements ClickListener {
 	private static final long serialVersionUID = 1L;
 	private Navigator navigator;
