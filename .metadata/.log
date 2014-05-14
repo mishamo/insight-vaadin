@@ -238,3 +238,120 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.318
+!MESSAGE IvyDE container states of the project ClientSideStepper doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.320
+!MESSAGE IvyDE container states of the project ClientSideStepper doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.322
+!MESSAGE IvyDE container states of the project CalendarPickerField doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.323
+!MESSAGE IvyDE container states of the project CalendarPickerField doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.324
+!MESSAGE IvyDE container states of the project Optimization doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.325
+!MESSAGE IvyDE container states of the project Optimization doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.327
+!MESSAGE IvyDE container states of the project ExampleApp doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.328
+!MESSAGE IvyDE container states of the project ExampleApp doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.330
+!MESSAGE IvyDE container states of the project 1-exampleapp-navigator doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.330
+!MESSAGE IvyDE container states of the project 1-exampleapp-navigator doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.331
+!MESSAGE IvyDE container states of the project 2-exampleapp-presenter doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.332
+!MESSAGE IvyDE container states of the project 2-exampleapp-presenter doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.334
+!MESSAGE IvyDE container states of the project 3-exampleapp-push doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.336
+!MESSAGE IvyDE container states of the project 3-exampleapp-push doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.336
+!MESSAGE IvyDE container states of the project ServerSideStepper doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.339
+!MESSAGE IvyDE container states of the project ServerSideStepper doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.340
+!MESSAGE IvyDE container states of the project NumericTextField doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.341
+!MESSAGE IvyDE container states of the project NumericTextField doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.343
+!MESSAGE IvyDE container states of the project demos-exampleapp-cdi doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.345
+!MESSAGE IvyDE container states of the project demos-exampleapp-cdi doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.347
+!MESSAGE IvyDE container states of the project Solutions-Optimization doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.348
+!MESSAGE IvyDE container states of the project Solutions-Optimization doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.349
+!MESSAGE IvyDE container states of the project CalendarPickerComponent doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.351
+!MESSAGE IvyDE container states of the project CalendarPickerComponent doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.353
+!MESSAGE IvyDE container states of the project 4-exampleapp-model doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2014-05-14 09:21:13.354
+!MESSAGE IvyDE container states of the project 4-exampleapp-model doesn't exist.
+
+!ENTRY org.eclipse.wst.common.frameworks 4 0 2014-05-14 09:21:27.374
+!MESSAGE Function group org.eclipse.jst.j2ee contains no pattern bindings
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:26:07.578
+!MESSAGE Error occurred installing server: C:\Program Files\tomcat\LICENSE (Access is denied)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\tomcat\LICENSE (Access is denied)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.eclipse.wst.server.core.internal.InstallableRuntime2.unzip(InstallableRuntime2.java:330)
+	at org.eclipse.wst.server.core.internal.InstallableRuntime2.install(InstallableRuntime2.java:263)
+	at org.eclipse.jst.server.tomcat.ui.internal.TomcatRuntimeComposite$6.run(TomcatRuntimeComposite.java:227)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:28:32.540
+!MESSAGE Server Tomcat v7.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:32:22.125
+!MESSAGE Server Tomcat v7.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:34:15.871
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:35:29.696
+!MESSAGE Server Tomcat v7.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-05-14 09:38:21.440
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2014-05-14 09:38:21.440
+!MESSAGE Could not delete C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\1-exampleapp-navigator\WEB-INF\lib\vaadin-client-compiled-7.1.15.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2014-05-14 09:38:21.440
+!MESSAGE Could not delete C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\1-exampleapp-navigator\WEB-INF\lib\vaadin-server-7.1.15.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2014-05-14 09:38:21.440
+!MESSAGE Could not delete C:\Users\Misha\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\1-exampleapp-navigator\WEB-INF\lib\vaadin-themes-7.1.15.jar. May be locked by another process.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2014-05-14 09:38:28.038
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
