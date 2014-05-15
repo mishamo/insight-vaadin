@@ -125,7 +125,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log." suffix=".txt"/>
 
-      <Context docBase="Optimization" path="/Optimization" reloadable="true" source="org.eclipse.jst.j2ee.server:Optimization"/><Context docBase="ExampleApp" path="/ExampleApp" reloadable="true" source="org.eclipse.jst.j2ee.server:ExampleApp"/><Context docBase="SuperDevModeProject" path="/SuperDevModeProject" reloadable="true" source="org.eclipse.jst.jee.server:SuperDevModeProject"/><Context docBase="NumericTextFieldExercise" path="/NumericTextFieldExercise" reloadable="true" source="org.eclipse.jst.jee.server:NumericTextFieldExercise"/></Host>
+      <Context docBase="Optimization" path="/Optimization" reloadable="true" source="org.eclipse.jst.j2ee.server:Optimization"/><Context docBase="ExampleApp" path="/ExampleApp" reloadable="true" source="org.eclipse.jst.j2ee.server:ExampleApp"/><Context docBase="SuperDevModeProject" path="/SuperDevModeProject" reloadable="true" source="org.eclipse.jst.jee.server:SuperDevModeProject"/><Context docBase="NumericTextFieldExercise" path="/NumericTextFieldExercise" reloadable="true" source="org.eclipse.jst.jee.server:NumericTextFieldExercise"/><Context docBase="CalendarPicker" path="/CalendarPicker" reloadable="true" source="org.eclipse.jst.jee.server:CalendarPicker"/></Host>
     </Engine>
   </Service>
 </Server>
