@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IntellijTestVaadinSuperDevMode:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntellijTestVaadinSuperDevMode_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IntellijTestVaadinSuperDevMode/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IntellijTestVaadinSuperDevMode" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Vaadin Server" />
+        </element>
+      </element>
+      <element id="directory" name="VAADIN">
+        <element id="directory" name="widgetsets">
+          <element id="gwt-compiler-output" facet="IntellijTestVaadinSuperDevMode/gwt/GWT" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
