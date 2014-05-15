@@ -10,10 +10,11 @@ import com.google.gwt.user.client.ui.Widget;
 import com.vaadin.client.communication.RpcProxy;
 import com.vaadin.client.communication.StateChangeEvent;
 import com.vaadin.client.ui.AbstractComponentConnector;
+import com.vaadin.client.ui.AbstractFieldConnector;
 import com.vaadin.shared.ui.Connect;
 
 @Connect(CalendarPicker.class)
-public class CalendarPickerConnector extends AbstractComponentConnector {
+public class CalendarPickerConnector extends AbstractFieldConnector {
 
 	CalendarPickerServerRpc rpc = RpcProxy
 			.create(CalendarPickerServerRpc.class, this);
