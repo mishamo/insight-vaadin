@@ -1,0 +1,16 @@
+@import "../reindeer/legacy-styles.css";
+
+.details {
+    background-color: white;
+    padding: 10px;
+    border: 1px gray;
+    border-bottom: 2px;
+}
+
+.details .v-caption .v-captiontext {
+    font-weight: bold;
+}
+
+.vertical {
+    padding: 10px;
+}
